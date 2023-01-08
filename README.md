@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ujaiahmad
+- 👋 Hi, I’m Ahmad Huzaifi
 - 👀 I’m interested in front-end developing
 - 🌱 I’m currently learning flutter, I'm on my 4th year for my Computer Science degree
 - 📫 Reach me by email: ujaiahmad@gmail.com
