@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ujaiahmad
 - 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning flutter, I'm on my 3rd year for my Computer Science degree
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter, I'm on my 4th year for my Computer Science degree
 - 📫 Reach me by email: ujaiahmad@gmail.com
 <!---
 ujaiahmad/ujaiahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
